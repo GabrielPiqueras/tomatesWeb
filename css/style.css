@@ -1,0 +1,22 @@
+body {
+    background: #906949;
+}
+
+#menu {
+    padding-bottom: 1em;
+    text-align: right;
+}
+
+#menu a {
+    background-color: #559049;
+    color: black;
+    font-family: arial;
+    font-size: 14px;
+    padding: 10px;
+    text-decoration: none;
+}
+
+#menu a:hover{
+    background-color: #6ab15b;
+}
+
