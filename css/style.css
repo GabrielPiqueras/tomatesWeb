@@ -28,6 +28,8 @@ body {
 
 #portada img{
     display: block;
+    height: 390px;
     margin: auto;
+    object-fit: cover;
     width: 100%;
 }
